@@ -4,7 +4,7 @@ This project was conducted in Visual Studio Code with Javascript(babel) environm
 The code for this project was divided into two parts: client and server.
 
 
-(1) client
+(1) CLIENT\
 client is the customer who purchases a travel product from server. \
 client could be activated with command in terminal prompt: "npm run start"\
 client src also has three semi parts: pages, components, context
@@ -16,7 +16,7 @@ context -> OrderContext
 By ordering products, client can check the data from each product saved in directory.
 
 
-(2) server
+(2) SERVER\
 Server is the seller who sells a travel product to client.\
 Server could be activated with command in terminal prompt: "npm run start"
 
